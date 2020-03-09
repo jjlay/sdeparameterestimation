@@ -1,4 +1,4 @@
-# sdeparameterestimation
+# SDEParameterEstimation
 
 The code in this project demonstrates estimating the drift and diffusion coefficients of an SDE.
 
